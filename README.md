@@ -1,3 +1,3 @@
-# Login_Senha
-Pequeno sistema de Login e Senha feita em Python
-um dos meus primeiro projetos então eu  coloquei bastante comentário para eu poder entender o que estava acontecend !!!
+Pequeno sistema de login e senha feito em python, com uma interface gráfica de usuário (Tkinter).
+Foi criado um banco de dados e integrado ao sistema. Um projeto simples e com bastante comentários
+para facilitar o entendimento do código.
