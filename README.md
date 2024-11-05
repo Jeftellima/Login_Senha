@@ -18,4 +18,4 @@ Observações
 O sistema utiliza uma interface gráfica simples e prática com tkinter.
 As mensagens de erro e sucesso aparecem em pop-ups para facilitar a usabilidade.
 Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.Um grande abraço do Jeff!!!
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request. Um grande abraço do Jeff !!!
